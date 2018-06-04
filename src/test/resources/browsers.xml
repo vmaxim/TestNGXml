@@ -7,4 +7,11 @@
             <class name="BrowsersTests.EmailTest"/>
         </classes>
     </test>
+
+    <test name="Functionsl Tests Reversed">
+        <classes>
+            <class name="BrowsersTests.EmailTest"/>
+            <class name="BrowsersTests.ErrorMessageTest"/>
+        </classes>
+    </test>
 </suite>
